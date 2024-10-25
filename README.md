@@ -19,4 +19,10 @@ This project is a local web application designed to generate personalized fortun
 3. Open the `index.html` file in your preferred browser.
 4. Input your birth details and generate your fortune!
 
+
+
+
+© 2024 Aditya Prasad. All rights reserved.
+Cosmic Chronicles is a creation by Aditya Prasad, protected by copyright. Unauthorized use, distribution, or duplication of this content without explicit written permission is strictly prohibited. For permissions, please contact the owner.
+
                                                             ---x---
